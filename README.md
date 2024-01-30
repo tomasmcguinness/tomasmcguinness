@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Tom, a software developer who's interested in decarbonisation, home heating and smart home technology.
+
+I make YouTube videos over at https://youtube.com/@tomasmcguinness and blog, very unpredictably at https://www.tomasmcguinness.com
+
 <!--
 **tomasmcguinness/tomasmcguinness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
