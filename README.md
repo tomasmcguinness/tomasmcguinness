@@ -1,8 +1,10 @@
 ### Hi, I'm Tom 👋
 
-I'm software developer who's interested in decarbonisation, home heating and smart home technology.
+I'm software developer who's interested in programming, smart home technology and home heating.
 
 I make YouTube videos over at https://youtube.com/@tomasmcguinness and blog, very unpredictably at https://www.tomasmcguinness.com
+
+🔭 I’m currently working on building a Zigbee dual temperature probe.
 
 <!--
 **tomasmcguinness/tomasmcguinness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
