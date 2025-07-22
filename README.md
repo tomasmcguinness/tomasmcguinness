@@ -4,7 +4,7 @@ I'm software developer who's interested in programming, smart home technology an
 
 I make YouTube videos over at https://youtube.com/@tomasmcguinness and blog, very unpredictably, at https://www.tomasmcguinness.com
 
-🔭 I’m currently working on a .Net implementation of the Matter Protocol.
+🔭 I’m currently poking around the Matter smart home protocol.
 
 <!--
 **tomasmcguinness/tomasmcguinness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
